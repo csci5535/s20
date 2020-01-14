@@ -144,7 +144,7 @@ Academic sanctions may include, but is not limited to, a zero for the assignment
 # Course Communication
 
 There are two main websites for this course.
-- **Public**. This public course website contains the course syllabus (this page).
+- **Public**. This public course website contains the course syllabus (this page) and publicly-available learning materials.
 - **Private**. The [course moodle](https://moodle.cs.colorado.edu/course/view.php?id=1296) contains any links that are limited to enrolled students. From the moodle, you will find resources like the discussion forum, private project repositories, submission links, grades, feedback, and interview sign-ups. The instructor will provide the enrollment key.
 
 # Texts 
