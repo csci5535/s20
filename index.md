@@ -78,10 +78,10 @@ talk with the instructor. Proficiency in programming and mathematical logic is a
 
 You will be responsible for the following:
 
-*   **[Class Participation](assignments.html#participation)** (5%). Participation includes both in-class and online discussion.
-*   **[Homework Assignments](assignments.html#homework)** (35%). There will be homework assignments for the first part of course. This is a project-based course, so assignments will be the main learning vehicle.
+*   **[Class Participation](assignments.html#class-participation-and-online-discussion)** (5%). Participation includes both in-class and online discussion.
+*   **[Homework Assignments](assignments.html#homework-assignments)** (35%). There will be homework assignments for the first part of course. This is a project-based course, so assignments will be the main learning vehicle.
 *   **A Final Exam** (30%).
-*   **[A Final Project](assignments.html#projects)** (30%). In the second part of the course, your time will be spent on a final project. You will create a final project that explores, extends, or experiments with the ideas in the course.
+*   **[A Final Project](assignments.html#final-project)** (30%). In the second part of the course, your time will be spent on a final project. You will create a final project that explores, extends, or experiments with the ideas in the course.
 *   **Reading**. There will be required papers or book chapters to read.
 
 ## Grading
