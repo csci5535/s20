@@ -160,7 +160,7 @@ The following are some other recommended resources:
 
 # Distance Learning
 
-This course is also offered through distance education. All assignment
+This course is also offered through [distance education](https://www.colorado.edu/graduateschool/distance-education). All assignment
 submission and content delivery will be electronic.
 
 ## Deadlines
