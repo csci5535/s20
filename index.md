@@ -150,7 +150,7 @@ There are two main websites for this course.
 # Texts 
 
 - Glynn Winskel. [The Formal Semantics of Programming Languages](http://www.worldcat.org/isbn/9780262731034).
-- Robert Harper. [Practical Foundations for Programming Languages](https://www.worldcat.org/title/practical-foundations-for-programming-languages/oclc/946900095).
+- Robert Harper. [Practical Foundations for Programming Languages](https://www.worldcat.org/title/practical-foundations-for-programming-languages/oclc/946900095). [[ebook via CU Library](https://ebookcentral.proquest.com/lib/ucb/detail.action?docID=1113098)]
 
 # Supplemental Readings
 
