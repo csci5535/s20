@@ -156,7 +156,7 @@ There are two main websites for this course.
 
 The following are some other recommended resources:
 
-- Benjamin C. Pierce. [Types and Programming Languages](http://www.worldcat.org/isbn/0262162091).
+- Benjamin C. Pierce. [Types and Programming Languages](http://www.worldcat.org/isbn/0262162091). [[ebook via CU Library](https://ebookcentral.proquest.com/lib/ucb/detail.action?docID=3338823)]
 
 # Distance Learning
 
